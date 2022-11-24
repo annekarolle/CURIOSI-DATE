@@ -1,5 +1,5 @@
-Buscando dados na Numbers API
-## Introdução
+## Buscando dados na Numbers API
+
 Antes de realizar essa atividade, faça um clone desse repositorio para ter a estrutra básica do projeto.
 
 Essa API nos retorna fatos interessantes sobre os números passados como parâmetro ou mesmo sobre um número aleatório. Pode ser um ano, uma data ou apenas um fato sobre o número em si!
