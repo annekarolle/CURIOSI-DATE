@@ -7,7 +7,7 @@ Essa API nos retorna fatos interessantes sobre os números passados como parâme
 Utilizando o DOM para construir uma interface que recebe uma data e um número qualquer do usuário para fazer uma busca com esses dados na API. Implementando dois campos,
  um para a data e outro para um número qualquer. 
  
-**URI**: http://numbersapi.com
+**URL**: http://numbersapi.com
 ## Endpoints
 - /n/trivia: Sendo n é um número qualquer.
 - /a/year: Sendo a é um ano qualquer.
